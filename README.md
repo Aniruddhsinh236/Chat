@@ -1,11 +1,11 @@
 #description
-#in this project i have two class named Tom(Server) and Jerry(Client).
+#in this project i have two class named Server and Client.
 
 
 #STEPS
-# 1.Start server (run Tom class)
-# 2.Client (run Jerry class)
-# 3. Do chat
+#1.Run Server Class
+#2.Run Client class
+#3. Do chat
 
 #Constraints
- # Always start server first and then client
+ #Always start server first and then client
