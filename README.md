@@ -3,9 +3,9 @@
 
 
 #STEPS
-#1.Run Server Class
-#2.Run Client class
-#3. Do chat
+# 1.Run Server Class
+# 2.Run Client class
+# 3. Do chat
 
 #Constraints
  #Always start server first and then client
